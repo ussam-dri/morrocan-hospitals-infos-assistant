@@ -1,4 +1,7 @@
 # Moroccan Hospitals Information Assistant
+![ui demo](./ui_france.jpg)
+![ui demo](./ui_arabic.jpg)
+
 
 A multilingual chatbot (FR/AR/EN) that provides information about hospitals in Morocco using Gemini API and ChromaDB for vector search.
 
