@@ -12,14 +12,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-#AIzaSyDjYTZ0s-T7AL1xT3Os4lcxuhgHaqX9IBE
-#AIzaSyBGEQPAdcFZ9i4-fQKWSTTbjEPf13F7bCA
-#--diff
-#AIzaSyDH-F93LIMeI5ExoQnw51gYfV222bOhRdY
-#AIzaSyCrssBJPrXPiyqxvNTatQ1TaGvQBrd5tJ4
+
 # Configure Gemini
 
-genai.configure(api_key="AIzaSyCrssBJPrXPiyqxvNTatQ1TaGvQBrd5tJ4")
+genai.configure(api_key="YOURS_API_KEY_HERE")
 model = genai.GenerativeModel("models/gemini-2.0-flash") # Updated to flash for speed, or use pro
 
 # Initialize FastAPI
