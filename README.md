@@ -1,5 +1,5 @@
 # Moroccan Hospitals Information Assistant
-![ui demo](./ui_france.jpg)
+![ui demo](./ui_france.png)
 ![ui demo](./ui_arabic.jpg)
 
 
